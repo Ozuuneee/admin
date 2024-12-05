@@ -114,7 +114,7 @@ body {
 
 .background {
   display: flex;
-  justify-content: center; /* Centers horizontally */
+  justify-content: center;
   position: relative;
   width: 291px;
   height: 384px;
